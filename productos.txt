@@ -1,0 +1,21 @@
+[
+ {
+   "title": "Almoha",
+   "price": 1000,
+   "thumbnail": "url de imagen",
+   "id": 1
+ },
+ {
+   "title": "Traba Puerta",
+   "price": 1200,
+   "thumbnail": "url de imagen",
+   "id": 2
+ },
+ {
+   "title": "Chiflete",
+   "price": 900,
+   "thumbnail": "url de imagen",
+   "id": 3
+ }
+]
+[object Object]
